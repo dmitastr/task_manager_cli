@@ -47,7 +47,7 @@ Simple CLI tool for task management written in pure GO.
 
 ### Built With
 
-* [![golang][go.dev]][golang-url]
+* [![go][golang]][golang-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
